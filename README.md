@@ -1,5 +1,5 @@
 <p align="center">
-  Projeto Perfil Link
+  <h1>Projeto Perfil Link</h1>
 </p>
 
 <p align="center">
