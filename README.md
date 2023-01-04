@@ -1,6 +1,6 @@
-<p align="center">
-  <h1>Projeto Perfil Link</h1>
-</p>
+<h1><p align="center">
+  Projeto Perfil Link
+</p></h1>
 
 <p align="center">
   <img alt="Projeto Perfil Link" src=".github/preview.jpg" width="100%">
